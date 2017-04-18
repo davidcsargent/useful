@@ -69,9 +69,9 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ```
 1. First ordered list item
 2. Another item
-  * Unordered sub-list. 
+   * Unordered sub-list. 
 1. Actual numbers don't matter, just that it's a number
-  1. Ordered sub-list
+   1. Ordered sub-list
 4. And another item.  
 
    Some text that should be aligned with the above item.
@@ -85,9 +85,9 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 1. First ordered list item
 2. Another item
-  * Unordered sub-list. 
+   * Unordered sub-list. 
 1. Actual numbers don't matter, just that it's a number
-  1. Ordered sub-list
+   1. Ordered sub-list
 4. And another item.  
 
    Some text that should be aligned with the above item.
@@ -102,7 +102,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ## Code
 
 ```
-[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link](https://davidsargent.uk)
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
@@ -111,19 +111,19 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 Or leave it empty and use the [link text itself]
 
 URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+http://davidsargent.uk or <http://davidsargent.uk> and sometimes 
+davidsargent.uk (but not on Github, for example).
 
 Some text to show that the reference links can follow later.
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+[arbitrary case-insensitive reference text]: https://davidsargent.uk
+[1]: http://davidsargent.uk
+[link text itself]: http://davidsargent.uk
 ```
 
 ## Examples
 
-[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link](https://davidsargent.uk)
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
@@ -132,14 +132,12 @@ Some text to show that the reference links can follow later.
 Or leave it empty and use the [link text itself]
 
 URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+http://davidsargent.uk or <http://davidsargent.uk> and sometimes 
+davidsargent.uk (but not on Github, for example).
 
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+[arbitrary case-insensitive reference text]: https://davidsargent.uk
+[1]: http://davidsargent.uk
+[link text itself]: http://davidsargent.uk
 
 
 # Images
